@@ -419,7 +419,7 @@
         
         "api": "http://fhapi9.com/api.php/provide/vod",
         "name": "番号资源"
-    }.
+    },
      "jingpin":{
         
         "api": "https://www.jingpinx.com/api.php/provide/vod",
@@ -441,6 +441,6 @@
         
         "api": "https://www.xxibaozyw.com/api.php/provide/vod",
         "name": "细胞采集"
-    },
+    }
  }
 }
